@@ -248,6 +248,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: e44d98678ae554761a0973a26e00b93f, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7c5df0d62cdfc4799aa8db4d44dfbe87, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
@@ -1201,6 +1205,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 34819f0380e884cb285cf115d8f34377, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3fd1173ff622849e8aa77c358c328749, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
@@ -1422,6 +1430,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a2c25b7db6b524ab5b14d81d24f0d5de, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b1dd217ff64b84768b6245e71387362f, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
@@ -1604,6 +1616,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 9007ffee89db046c5ae085b770c138cc, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: af1ed291d759548959dfc50012173912, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
@@ -1612,6 +1628,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1416404477}
+    - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: set_clip
@@ -1975,6 +1995,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 66bd5431e41b647a7adf34dbb2dd889b, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: cd5a012106f3c438cabb7e6c0464b000, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
@@ -2227,6 +2251,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 54bc8e77b71a14692b1b730d7902b384, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: f623c71f179504585b027eb9a3fc4841, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
@@ -2419,6 +2447,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 87895e715c2fe4e42a441bbd2f1242b1, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d05464e823ab5461bb7a0bae652cdd20, type: 3}
     - target: {fileID: 8132790032601864778, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
